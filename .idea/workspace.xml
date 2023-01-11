@@ -38,8 +38,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;php.override.implement.member.chooser.php.doc&quot;: &quot;NONE&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -69,7 +68,6 @@
       <workItem from="1672141939802" duration="5253000" />
       <workItem from="1672147595826" duration="666000" />
       <workItem from="1672148307111" duration="1607000" />
-      <workItem from="1672170597593" duration="7564000" />
     </task>
     <servers />
   </component>
